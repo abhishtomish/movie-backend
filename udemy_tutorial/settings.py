@@ -93,6 +93,7 @@ DATABASES = {
 
 CORS_ORIGIN_WHITELIST = [
     "http://localhost:3000",
+    "http://13.233.161.192:3001/"
 ]
 
 # CORS_ORIGIN_ALLOW_ALL = True
